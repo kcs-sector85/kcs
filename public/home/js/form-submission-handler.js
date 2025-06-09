@@ -50,7 +50,7 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
         console.log( xhr.status, xhr.statusText )
         console.log(xhr.responseText);
         document.getElementById('gform').style.display = 'none'; // hide form
-        document.getElementById('thankyou_message').style.display = 'block';
+      //  document.getElementById('thankyou_message').style.display = 'block';
         return;
     };
     // url encode form data for sending as post data
@@ -62,7 +62,7 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
 }
 function loaded() {
   console.log('contact form submission handler loaded successfully');
-  document.getElementById('thankyou_message').style.display = 'none';
+ // document.getElementById('thankyou_message').style.display = 'none';
   // bind to the submit event of our form
   var form = document.getElementById('gform');
   form.addEventListener("submit", handleFormSubmit, false);

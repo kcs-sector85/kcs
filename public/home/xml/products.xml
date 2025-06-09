@@ -2,362 +2,402 @@
 <products>
 
 <product>
-<name>Mango Product </name>
+<id>1</id>
+<name>Mango Product</name>
 <price>1500</price>
-<itemimage>home/img/featured/feature-4.jpg</itemimage>
-<category>FP</category>
+<image>home/img/featured/feature-4.jpg</image>
+<category>Feature Products</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>2</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 
 <product>
+<id>3</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>4</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>5</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>6</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>7</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
 
 
 <product>
+<id>8</id>
 <name>Feature Kangaro Stapler-10-D</name>
 <price>100</price>
-<itemimage>home/img/featured/feature-1.jpg</itemimage>
-<category>FP</category>
+<image>home/img/featured/feature-1.jpg</image>
+<category>Feature Products</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>9</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>10</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>11</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>12</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>13</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
 
-  <product>
+ <product>
+ <id>14</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>14</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>15</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>16</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>17</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
 
-
-
-
 <product>
+<id>18</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>19</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>20</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>21</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>22</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
 
-
 <product>
+<id>23</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>24</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>25</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>26</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>27</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
-<category>Art and Craft</category>
-<active>Y</active>
-</product>
-
-
-<product>
-<name>Nib Pen Combo</name>
-<price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
-<category>Pen</category>
-<active>Y</active>
-</product>
-
-<product>
-<name>Notebook Combo</name>
-<price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
-<category>Note Books</category>
-<active>Y</active>
-</product>
-
-<product>
-<name>Paper and Pad Spiral Notebook</name>
-<price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
-<category>Paper and Pad</category>
-<active>Y</active>
-</product>
-
-<product>
-<name>General Supplies Stiky Notes</name>
-<price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
-<category>General Supplies</category>
-<active>Y</active>
-</product>
-
-<product>
-<name>Art and Craft Kebina Pen Stand</name>
-<price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
 
 
 <product>
+<id>28</id>
+<name>Nib Pen Combo</name>
+<price>750</price>
+<image>home/img/categories/cat-4.jpg</image>
+<category>Pen</category>
+<active>Y</active>
+</product>
+
+<product>
+<id>29</id>
+<name>Notebook Combo</name>
+<price>150</price>
+<image>home/img/categories/cat-7.jpg</image>
+<category>Note Books</category>
+<active>Y</active>
+</product>
+
+<product>
+<id>30</id>
+<name>Paper and Pad Spiral Notebook</name>
+<price>1200</price>
+<image>home/img/categories/cat-6.jpg</image>
+<category>Paper and Pad</category>
+<active>Y</active>
+</product>
+
+<product>
+<id>31</id>
+<name>General Supplies Stiky Notes</name>
+<price>100</price>
+<image>home/img/categories/cat-10.jpg</image>
+<category>General Supplies</category>
+<active>Y</active>
+</product>
+
+<product>
+<id>32</id>
+<name>Art and Craft Kebina Pen Stand</name>
+<price>150</price>
+<image>home/img/featured/feature-2.jpg</image>
+<category>Art and Craft</category>
+<active>Y</active>
+</product>
+
+
+<product>
+<id>33</id>
 <name>Feature Kangaro Stapler-10-D</name>
 <price>100</price>
-<itemimage>home/img/featured/feature-1.jpg</itemimage>
-<category>FP</category>
+<image>home/img/featured/feature-1.jpg</image>
+<category>Feature Products</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>34</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>35</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>36</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>37</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>38</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
 
 
 <product>
+<id>39</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
-<itemimage>home/img/categories/cat-4.jpg</itemimage>
+<image>home/img/categories/cat-4.jpg</image>
 <category>Pen</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>40</id>
 <name>Notebook Combo</name>
 <price>150</price>
-<itemimage>home/img/categories/cat-7.jpg</itemimage>
+<image>home/img/categories/cat-7.jpg</image>
 <category>Note Books</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>41</id>
 <name>Paper and Pad Spiral Notebook</name>
 <price>1200</price>
-<itemimage>home/img/categories/cat-6.jpg</itemimage>
+<image>home/img/categories/cat-6.jpg</image>
 <category>Paper and Pad</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>42</id>
 <name>General Supplies Stiky Notes</name>
 <price>100</price>
-<itemimage>home/img/categories/cat-10.jpg</itemimage>
+<image>home/img/categories/cat-10.jpg</image>
 <category>General Supplies</category>
 <active>Y</active>
 </product>
 
 <product>
+<id>43</id>
 <name>Art and Craft Kebina Pen Stand</name>
 <price>150</price>
-<itemimage>home/img/featured/feature-2.jpg</itemimage>
+<image>home/img/featured/feature-2.jpg</image>
 <category>Art and Craft</category>
 <active>Y</active>
 </product>
