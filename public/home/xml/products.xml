@@ -19,6 +19,14 @@
 <active>Y</active>
 </product>
 
+ <product>
+<id>2</id>
+<name>register</name>
+<price>185</price>
+<image>home/img/categories/cat-4.jpg</image>
+<category>Classmate</category>
+<active>Y</active>
+</product>
 
 <product>
 <id>3</id>
