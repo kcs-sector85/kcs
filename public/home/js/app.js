@@ -18,6 +18,7 @@ $(document).ready(function () {
                     name: $(this).find("name").text(),
                     category: $(this).find("category").text(),
                     price: parseFloat($(this).find("price").text()),
+		    pages: parseFloat($(this).find("price").text()),
                     image: $(this).find("image").text()
                 };
                 products.push(product);
