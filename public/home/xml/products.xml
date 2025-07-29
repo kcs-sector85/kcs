@@ -10,6 +10,15 @@
 <active>Y</active>
 </product>
 
+ <product>
+<id>1</id>
+<name>DOMS Art on Wheel Kit MRP100</name>
+<price>85</price>
+<image>home/img/featured/Brush Pen.jpg</image>
+<category>Feature Products</category>
+<active>Y</active>
+</product>
+
  
  <product>
 <id>1</id>
