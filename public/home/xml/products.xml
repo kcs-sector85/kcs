@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
 
- <product>
-<id>1</id>
-<name>Doms Inxify Pen MRP5</name>
-<price>5</price>
-<image>home/img/featured/Doms inxify pen 0.7.jpg</image>
-<category>Feature Products</category>
-<active>Y</active>
-</product>
- 
- 
+
 <product>
-<id>1</id>
-<name>Classmate Spiral Register 300pages MRP185</name>
-<price>148</price>
-<image>home/img/featured/Spiral ITC Register 300page.jpg</image>
-<category>Feature Products</category>
-<active>Y</active>
-</product>
-
- <product>
-<id>1</id>
-<name>Rim - Trident Spectra</name>
-<price>250</price>
-<image>home/img/featured/Ream.jpg</image>
-<category>Feature Products</category>
-<active>Y</active>
-</product>
-
- <product>
 <id>2</id>
 <name>Pencil - Apsara 10pcs MRP 60</name>
 <price>50</price>
