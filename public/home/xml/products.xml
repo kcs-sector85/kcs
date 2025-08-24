@@ -1,5 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+<id>1</id>
+<name>Rim - Trident Spectra</name>
+<price>250</price>
+<image>home/img/featured/Ream.jpg</image>
+<category>Feature Products</category>
+<active>Y</active>
+</product>
 
-<product>
+ <product>
 <id>2</id>
 <name>Pencil - Apsara 10pcs MRP 60</name>
 <price>50</price>
@@ -21,7 +31,7 @@
 <id>3</id>
 <name>Spiral register</name>
 <price>185</price>
-<pages>300</pages>
+  <pages>300</pages>
 <image>home/img/categories/Apsara-Platinum.jpg</image>
 <category>Classmate</category>
 <active>Y</active>
