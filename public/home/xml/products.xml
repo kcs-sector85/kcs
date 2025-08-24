@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
+  
   <product>
 <id>1</id>
 <name>Rim - Trident Spectra</name>
 <price>250</price>
-<image>home/img/featured/Ream.jpg</image>
+<image>home/img/featured/REAM.jpg</image>
 <category>Feature Products</category>
 <active>Y</active>
 </product>
