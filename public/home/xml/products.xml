@@ -18,7 +18,15 @@
 <category>Feature Products</category>
 <active>Y</active>
 </product>
-
+ 
+   <product>
+<id>1</id>
+<name>Classmate Spiral Register 185</name>
+<price>148</price>
+<image>home/img/featured/classmate.jpg</image>
+<category>Feature Products</category>
+<active>Y</active>
+</product>
  <product>
 <id>2</id>
 <name>Pencil - Apsara 10pcs MRP 60</name>
