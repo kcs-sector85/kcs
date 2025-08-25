@@ -39,16 +39,6 @@
 
  <product>
 <id>3</id>
-<name>Spiral register</name>
-<price>185</price>
-  <pages>300</pages>
-<image>home/img/categories/classmate.jpg</image>
-<category>Classmate</category>
-<active>Y</active>
-</product>
-
-<product>
-<id>3</id>
 <name>Nib Pen Combo</name>
 <price>750</price>
 <image>home/img/categories/cat-4.jpg</image>
